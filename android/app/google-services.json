@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419734497183",
+    "project_id": "inventory-pra-project",
+    "storage_bucket": "inventory-pra-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419734497183:android:10b34bc2ae87acd7043faa",
+        "android_client_info": {
+          "package_name": "com.KennyDevC.flutter_firebase_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419734497183-chqlk3ori0hm7val8rf9r6q22ppbm1i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBms74FnxvGmzAE_iPJTNNNejqu5kLsJd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419734497183-chqlk3ori0hm7val8rf9r6q22ppbm1i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
